@@ -1,18 +1,18 @@
 === killJoi ===
 Contributors: texxs (Texx Smith)
 Donate link: http://paypal.me/TexxSmith
-Tags: emjoi, spam
+Tags: emjoi, code
 Requires at least: 4.0.1
 Tested up to: 4.6.1
 Stable tag: 4.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Removes the code related to emjois that WordPress puts on every page via wp_head() with the simplest (2 lines of code) method available.
+Removes the code related to emojis that WordPress puts on every page via wp_head() with the simplest (2 lines of code) method available.
 
 == Description ==
 
-Tired of WordPress adding all that junk code for emjois on every page?  Well, I killed it!  This helps make the code your WP Themes output cleaner and easier to eread and edit.  Yes, there are other plugins out there that do this but I  think this one does the job with the minimal amount of code possible.
+Tired of WordPress adding all that junk code for emojis on every page?  Well, I killed it!  This helps make the code your WP Themes output cleaner and easier to eread and edit.  Yes, there are other plugins out there that do this but I  think this one does the job with the minimal amount of code possible.
 
 == Installation ==
 
