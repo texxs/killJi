@@ -1,14 +1,14 @@
-=== killJoi ===
+=== killJi ===
 Contributors: texxs (Texx Smith)
 Donate link: http://paypal.me/TexxSmith
-Tags: emjoi, code
+Tags: emoji, code
 Requires at least: 4.0.1
 Tested up to: 4.6.1
 Stable tag: 4.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Removes the code related to emojis that WordPress puts on every page via wp_head() with the simplest (2 lines of code) method available.
+Removes the code related to emojis that WordPress puts on every page (as well as the extra css it creates) via wp_head() with the simplest (2 lines of code) method available.
 
 == Description ==
 
