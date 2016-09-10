@@ -2,7 +2,7 @@
 
 /*
 plugin Name:  killJoi
-Description:  Kill the Joy with this plugin that removes all the extra scritping and code related to the new emjois that was included on every page of WordPress.    
+Description:  Kill the Emoji with this plugin that removes all the extra scritping and code related to the new emojis that are included on every page of WordPress.    
 Plugin Url:  https://texxsmith.net/killJoi
 Version: 0.1
 Plugin Author:  Texx Smith
